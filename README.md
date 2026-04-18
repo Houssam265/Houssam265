@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-harisshoussam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harisshoussam)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-houssam--portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://houssam-portfoliorho.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-houssam--portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://houssam-portfolio-rho.vercel.app)
 
 [![Email](https://img.shields.io/badge/EMAIL-hariss.houssam%40etu.uae.ac.ma-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariss.houssam@etu.uae.ac.ma)
 ---
