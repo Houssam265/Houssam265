@@ -2,10 +2,11 @@
 
 **Computer Engineering Student · Full-Stack Developer · Salesforce & DevOps Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harisshoussam-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harisshoussam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-houssam--portfoliorho.vercel.app-green?style=flat)](https://houssam-portfoliorho.vercel.app)
-[![Email](https://img.shields.io/badge/Email-hariss.houssam%40etu.uae.ac.ma-red?style=flat&logo=gmail)](mailto:hariss.houssam@etu.uae.ac.ma)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-harisshoussam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harisshoussam)
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-houssam--portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://houssam-portfoliorho.vercel.app)
+
+[![Email](https://img.shields.io/badge/EMAIL-hariss.houssam%40etu.uae.ac.ma-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariss.houssam@etu.uae.ac.ma)
 ---
 
 ## 👤 About me
