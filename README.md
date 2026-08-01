@@ -11,7 +11,7 @@
 
 ## 👤 About me
 
-2nd-year Computer Engineering student at **ENSA Tétouan**, passionate about building full-stack web applications, DevOps automation, and exploring the Salesforce ecosystem. Experienced in remote and on-site internships, I enjoy working on real-world projects that combine clean code with practical impact.
+4nd-year Computer Engineering student at **ENSA Tétouan**, passionate about building full-stack web applications, DevOps automation, and exploring the Salesforce ecosystem. Experienced in remote and on-site internships, I enjoy working on real-world projects that combine clean code with practical impact.
 
 **Core Interests:**
 - 🌐 Full-stack software development
